@@ -1,0 +1,47 @@
+_repo: Tom-and-Maggie-Tulliver_30273
+_version: 0.1.0
+contributor:
+  adapter:
+    agent_name: Anonymous
+    alias: Anonyme
+    gutenberg_agent_id: '216'
+    url: http://www.gutenberg.org/2009/agents/216
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Anonymity
+    - http://www.gutenberg.org/browse/authors/u#a49
+covers:
+- cover_type: archival
+  image_path: 30273-h/images/img-cover.jpg
+creator:
+  author:
+    agent_name: Eliot, George
+    aliases:
+    - Evans, Mary Anne
+    - Lewes, Marian Evans
+    - Cross, Mary Ann
+    - Evans, Marian
+    - Cross, Marian Evans
+    - Lewes, M. E. (Marian Evans)
+    birthdate: 1819
+    deathdate: 1880
+    gutenberg_agent_id: '90'
+    url: http://www.gutenberg.org/2009/agents/90
+    wikipedia: http://en.wikipedia.org/wiki/George_Eliot
+description: This adaptation of George Eliot's beloved novel The Mill on the Floss
+  will engage and delight readers young and old alike. The story focuses on the lives
+  of a pair of siblings, Tom and Maggie Tulliver, who grow up in a bucolic but hardscrabble
+  rural setting in the fictional town of St. Ogg's.
+gutenberg_issued: '2009-10-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30273'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Brothers and sisters -- Juvenile fiction'
+- !lcsh 'Eliot, George, 1819-1880. Mill on the Floss -- Adaptations'
+title: Tom and Maggie Tulliver
+url: http://www.gutenberg.org/ebooks/30273
