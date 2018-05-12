@@ -31,6 +31,8 @@ description: This adaptation of George Eliot's beloved novel The Mill on the Flo
   will engage and delight readers young and old alike. The story focuses on the lives
   of a pair of siblings, Tom and Maggie Tulliver, who grow up in a bucolic but hardscrabble
   rural setting in the fictional town of St. Ogg's.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30273#Tom-and-Maggie-Tulliver
 gutenberg_issued: '2009-10-17'
 gutenberg_type: Text
 identifiers:
